@@ -8,3 +8,8 @@ GitLab és una plataforma DevOps completa que combina:
 - Gestió de projectes i incidències
 
 Més informació: <https://about.gitlab.com/>
+
+# GitLab (versió creada al main local)
+
+Aquesta és una versió diferent del fitxer creada per provocar un conflicte.
+Inclou una descripció alternativa del producte GitLab.
